@@ -1,6 +1,6 @@
 ## Email: ayush51379@gmail.com
 
-## LinkedIn - https://www.linkedin.com/in/ayush-gupta-228688141/
+## LinkedIn - www.linkedin.com/in/AyushGuptaDataScience
 
 ## Facebook - https://www.facebook.com/AyushGupta52468
 
