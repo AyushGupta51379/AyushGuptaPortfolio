@@ -3,11 +3,11 @@
 ## The Hong Kong University of Science and Technology, Hong Kong
 ### Bachelor's Degree (Hons.) - Mathematics and Computer Science, 4 years program, Completed in 3 years (September 2016 - September 2019)
 
-#### Degree title: 
+#### Degree title:
 Bachelor's of Science (Hons.) in Mathematics (Computer Science track).
 Duration: Completed my 4 years program in 3 years (one-year early graduation) by taking extra credits than normal every term.
 
-#### Performance: 
+#### Performance:
 Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3.
 
 #### Description: 
@@ -19,7 +19,8 @@ Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in 
 
 # Projects
 
-## For projects page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects 
+## For projects page: 
+https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects 
 
 ## For repositories on Github:
 https://github.com/AyushGupta51379?tab=repositories 
@@ -27,7 +28,8 @@ https://github.com/AyushGupta51379?tab=repositories
 
 # Honors and Awards
 
-## For Honors and Awards page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards 
+## For Honors and Awards page: 
+https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards 
 
 # Community Service
 
