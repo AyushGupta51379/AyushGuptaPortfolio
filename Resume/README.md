@@ -3,13 +3,15 @@
 ## The Hong Kong University of Science and Technology, Hong Kong
 ### Bachelor's Degree (Hons.) - Mathematics and Computer Science, 4 years program, Completed in 3 years (September 2016 - September 2019)
 
-<b> Degree title: </b>
+#### Degree title: 
 Bachelor's of Science (Hons.) in Mathematics (Computer Science track).
 Duration: Completed my 4 years program in 3 years (one-year early graduation) by taking extra credits than normal every term.
 
-<b> Performance: </b> Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3.
+#### Performance: 
+Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3.
 
-<b> Description: </b> Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in <b>Data Science, Natural Language Processing, Machine Learning and Artificial Intelligence. <b>
+#### Description: 
+Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in <b>Data Science, Natural Language Processing, Machine Learning and Artificial Intelligence. <b>
 
 <b> The Hong Kong University of Science and Technology (HKUST) </b> is considered <b> among top 40 Universities in the world by QS World University rankings </b> from 2012 to 2020. It is also considered as <b> 2nd among the top young universities rankings in the world according to QS </b> in 2019.
 
@@ -17,15 +19,15 @@ Duration: Completed my 4 years program in 3 years (one-year early graduation) by
 
 # Projects
 
-<b> For projects page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects 
+## For projects page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects 
 
-For repositories on Github:
+## For repositories on Github:
 https://github.com/AyushGupta51379?tab=repositories 
-</b>
+
 
 # Honors and Awards
 
-<b> For Honors and Awards page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards </b>
+## For Honors and Awards page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards 
 
 # Community Service
 
