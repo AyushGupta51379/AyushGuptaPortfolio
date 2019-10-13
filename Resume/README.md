@@ -35,7 +35,7 @@ https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards
 ### Machine Learning, Mathematics, Programming, Data Science, MS Office
 
 # Programming Languages
-#### Python, JavaScript, C++, Java, HTML/CSS
+### Python, JavaScript, C++, Java, HTML/CSS
 
 # Community Service
 
