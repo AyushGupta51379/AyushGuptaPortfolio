@@ -19,16 +19,16 @@ Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in 
 
 # Projects
 
-## For projects page: 
+### For projects page: 
 https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects 
 
-## For repositories on Github:
+### For repositories on Github:
 https://github.com/AyushGupta51379?tab=repositories 
 
 
 # Honors and Awards
 
-## For Honors and Awards page: 
+### For Honors and Awards page: 
 https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards 
 
 # Skills
