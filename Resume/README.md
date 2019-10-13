@@ -9,7 +9,7 @@ Duration: Completed my 4 years program in 3 years (one-year early graduation) by
 
 <b> Performance: </b> Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3.
 
-<b> Description:</b> Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in <b>Data Science, Natural Language Processing, Machine Learning and Artificial Intelligence. <b>
+<b> Description: </b> Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in <b>Data Science, Natural Language Processing, Machine Learning and Artificial Intelligence. <b>
 
 <b> The Hong Kong University of Science and Technology (HKUST) </b> is considered <b> among top 40 Universities in the world by QS World University rankings </b> from 2012 to 2020. It is also considered as <b> 2nd among the top young universities rankings in the world according to QS</b> in 2019.
 
