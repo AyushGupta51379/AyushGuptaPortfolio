@@ -33,17 +33,21 @@ https://github.com/AyushGupta51379?tab=repositories
 
 Volunteered on various occasions in many Community Service activities like:
 
-<strong> 'Blood Donation Promotion Campaign' at The Hong Kong University of Science and Technology (HKUST): </strong> helped to promote blood donation among HKUST's students by distributing leaflets and sharing information on lack of sufficient blood in Hong Kong for hospitals which resulted in on the spot blood donations from about 200 students of HKUST and increased awareness of the current situation among HKUST community.
+### 'Blood Donation Promotion Campaign' at The Hong Kong University of Science and Technology (HKUST): 
+Helped to promote blood donation among HKUST's students by distributing leaflets and sharing information on lack of sufficient blood in Hong Kong for hospitals which resulted in on the spot blood donations from about 200 students of HKUST and increased awareness of the current situation among HKUST community.
 
-<strong> 'Hong Kong Special Olympics': </strong> helped to ensure smooth conduct of the swimming competition of children and adults with intellectual disabilities.
+### 'Hong Kong Special Olympics': 
+Helped to ensure smooth conduct of the swimming competition of children and adults with intellectual disabilities.
 
-<b> 'ETHNIQUE' program: </b> helped about 20 children from ethnic minorities to discover their uniqueness through various activities such as drawing, playing fun games and appreciating their specialties which increased their happiness and self-love.
+### 'ETHNIQUE' program: 
+Helped about 20 children from ethnic minorities to discover their uniqueness through various activities such as drawing, playing fun games and appreciating their specialties which increased their happiness and self-love.
 
-<b> 'Food Share, we care' program: </b> helped in collection of about 30 kilograms of unsold vegetables from vegetable market and distributed them to about 30 people in old age homes.
+### 'Food Share, we care' program: 
+Helped in collection of about 30 kilograms of unsold vegetables from vegetable market and distributed them to about 30 people in old age homes.
 
 ## SCI/NUCLEUS - Helper (Volunteer), Hong Kong | Sep 2016 – Sep 2019 | Cause: Social Services
 
-<b> Assisted in Community Service project 'Lunch gathering with ethnic minorities' on various occasions in Yuen Long, Hong Kong: </b>
+### Assisted in Community Service project 'Lunch gathering with ethnic minorities' on various occasions in Yuen Long, Hong Kong:
 
 Helped in packing of food materials to distribute to about 75 families of people who are minority in Hong Kong,
 Organized free lunch and free market of donated items for them.
