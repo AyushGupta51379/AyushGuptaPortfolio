@@ -20,7 +20,7 @@ Duration: Completed my 4 years program in 3 years (one-year early graduation) by
 <b> For projects page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects 
 
 For repositories on Github:
-https://github.com/AyushGupta51379?tab=repositories
+https://github.com/AyushGupta51379?tab=repositories 
 </b>
 
 # Honors and Awards
