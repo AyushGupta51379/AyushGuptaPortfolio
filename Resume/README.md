@@ -31,6 +31,12 @@ https://github.com/AyushGupta51379?tab=repositories
 ## For Honors and Awards page: 
 https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards 
 
+# Skills
+### Machine Learning, Mathematics, Programming, Data Science, MS Office
+
+# Programming Languages
+#### Python, JavaScript, C++, Java, HTML/CSS
+
 # Community Service
 
 ## HKUST Connect - Helper (Volunteer), Hong Kong | Sep 2016 – Sep 2019 | Cause: Social Services
@@ -70,3 +76,7 @@ I am glad that I am helping people and will continue to contribute more.
 
 <b> Profile link: </b>
 https://maps.app.goo.gl/vTKam7d4xVptoDu27
+
+# Languages
+
+### English (Fluent), Hindi (Native), Chinese (Basic)
