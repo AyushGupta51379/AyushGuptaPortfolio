@@ -29,4 +29,5 @@ https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Introduction
 # Contact
 
 #### Email: ayush51379@gmail.com
+#### LinkedIn: www.linkedin.com/in/AyushGuptaDataScience
 #### Phone: +91 9111244382
