@@ -12,21 +12,21 @@ https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Introduction
 
 # Resume
 
-### For 1 page Resume: https://github.com/AyushGupta51379/AyushGuptaPortfolio/raw/master/Resume/Resume_Ayush_Gupta.pdf
+#### For 1 page Resume: https://github.com/AyushGupta51379/AyushGuptaPortfolio/raw/master/Resume/Resume_Ayush_Gupta.pdf
 
-### For detailed Resume: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Resume
+#### For detailed Resume: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Resume
 
 # Projects
 
-### For projects page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects
+#### For projects page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Projects
 
-### For repositories on Github: https://github.com/AyushGupta51379?tab=repositories
+#### For repositories on Github: https://github.com/AyushGupta51379?tab=repositories
 
 # Awards and Honors
 
-### For Honors and Awards page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards
+#### For Honors and Awards page: https://github.com/AyushGupta51379/AyushGuptaPortfolio/tree/master/Awards
 
 # Contact
 
-### Email: ayush51379@gmail.com
-### Phone: +91 9111244382
+#### Email: ayush51379@gmail.com
+#### Phone: +91 9111244382
