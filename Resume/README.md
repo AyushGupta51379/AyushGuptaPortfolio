@@ -33,9 +33,9 @@ https://github.com/AyushGupta51379?tab=repositories
 
 Volunteered on various occasions in many Community Service activities like:
 
-<b> 'Blood Donation Promotion Campaign' at The Hong Kong University of Science and Technology (HKUST): </b> helped to promote blood donation among HKUST's students by distributing leaflets and sharing information on lack of sufficient blood in Hong Kong for hospitals which resulted in on the spot blood donations from about 200 students of HKUST and increased awareness of the current situation among HKUST community.
+<strong> 'Blood Donation Promotion Campaign' at The Hong Kong University of Science and Technology (HKUST): </strong> helped to promote blood donation among HKUST's students by distributing leaflets and sharing information on lack of sufficient blood in Hong Kong for hospitals which resulted in on the spot blood donations from about 200 students of HKUST and increased awareness of the current situation among HKUST community.
 
-<b> 'Hong Kong Special Olympics': </b> helped to ensure smooth conduct of the swimming competition of children and adults with intellectual disabilities.
+<strong> 'Hong Kong Special Olympics': </strong> helped to ensure smooth conduct of the swimming competition of children and adults with intellectual disabilities.
 
 <b> 'ETHNIQUE' program: </b> helped about 20 children from ethnic minorities to discover their uniqueness through various activities such as drawing, playing fun games and appreciating their specialties which increased their happiness and self-love.
 
