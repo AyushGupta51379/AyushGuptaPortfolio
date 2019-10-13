@@ -4,11 +4,11 @@
 ### Bachelor's Degree (Hons.) - Mathematics and Computer Science, 4 years program, Completed in 3 years (September 2016 - September 2019)
 
 #### Degree title:
-Bachelor's of Science (Hons.) in Mathematics (Computer Science track).
-Duration: Completed my 4 years program in 3 years (one-year early graduation) by taking extra credits than normal every term.
+<b> Bachelor's of Science (Hons.) in Mathematics (Computer Science track). </b>
+<b> Duration: Completed my 4 years program in 3 years (one-year early graduation) by taking extra credits than normal every term. </b>
 
 #### Performance:
-Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3.
+<b> Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3. </b>
 
 #### Description: 
 Learnt topics in <b> Mathematics and Computer Science </b> which are helpful in <b>Data Science, Natural Language Processing, Machine Learning and Artificial Intelligence. <b>
