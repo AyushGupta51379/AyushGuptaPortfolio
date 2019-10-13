@@ -5,7 +5,7 @@
 
 #### Degree title:
 <b> Bachelor's of Science (Hons.) in Mathematics (Computer Science track). </b>
-<b> Duration: Completed my 4 years program in 3 years (one-year early graduation) by taking extra credits than normal every term. </b>
+#### Duration: Completed my 4 years program in 3 years (one-year early graduation) by taking extra credits than normal every term.
 
 #### Performance:
 <b> Graduated with Division 1, Second Class Honors. Graduation Grade Average (GGA) – (approx.) 3.27 / 4.3. </b>
