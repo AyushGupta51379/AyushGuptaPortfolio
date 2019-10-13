@@ -58,7 +58,7 @@ Organized free lunch and free market of donated items for them.
 
 Ensured smooth conduct of the event by communicating with people to come 4 people at a time into the room for collecting the materials.
 
-<b> The event resulted in increased happiness in those families of ethnic minority groups and restoration in their hopes of goodness in people in this world. </b>
+The event resulted in increased happiness in those families of ethnic minority groups and restoration in their hopes of goodness in people in this world.
 
 ## Local Guide, Google Maps, Hong Kong and India | May 2017 - Present | Cause: Social Services
 
@@ -66,7 +66,7 @@ Level 6 Local Guide. Receiver Expert Reviewer badge and Expert Photographer badg
 
 My reviews and photos have received over 270K views and helped many people to decide where to go for food, sightseeing and more.
 
-<b> I am glad that I am helping people and will continue to contribute more. </b>
+I am glad that I am helping people and will continue to contribute more.
 
 <b> Profile link: </b>
 https://maps.app.goo.gl/vTKam7d4xVptoDu27
